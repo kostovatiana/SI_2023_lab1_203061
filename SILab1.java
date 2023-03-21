@@ -6,7 +6,11 @@ public class SILab1 {
     public static List<Integer> filterOddNumbers(List<Integer> list) {
         List<Integer> result = new ArrayList<>();
         for (Integer el : list) {
+<<<<<<< HEAD
             if (el % 2 == 0) {
+=======
+             {
+>>>>>>> bug2
                 result.add(el);
             }
         }
