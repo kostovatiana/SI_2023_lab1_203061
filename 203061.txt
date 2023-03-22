@@ -1,0 +1,77 @@
+4. За креирање локален репозиториум ги користев командите:
+mkdir SI_2023_lab1_203061    --> за креирање директориум
+cd SI_2023_lab1_203061       --> за влез во директориумот
+git init                     --> за инизијализација на Git
+
+5. 
+git remote add origin https://github.com/kostovatiana/SI_2023_lab1_203061.git    --> за поврзување на локалниот со оддалечениот репозиториум
+
+6.
+echo " Tiana Kostova, 203061 " >> README.md   --> за креирање README.md датотека 
+git add README.md
+git commit -m "Initial commit"   -->порака
+git push origin master
+
+7. 
+echo "" >> SILab1.java
+// го отварам фајлот во Intellij каде ја додавам содржината на класата
+git add SILAB1.java
+git commit -m "Add java class"    --> изврши комит
+git push origin master
+
+8.
+git fetch    --> синхронизација на двата репозиториума
+git merge origin/master
+
+9.
+git checkout -b bug1
+git checkout -b bug2     -->креирање нови гранки
+git checkout -b bug3
+
+10.
+git checkout bug1   -->префрлување на гранка 1 
+         
+11.
+nano SILab1.java        -->отвори го фајлот во нано едиторот
+git add SILab1.java      -->додади го фајлот во стејџинг
+git commit -m "Fixed wrong loop for reading"     -->изврши комит
+git push origin bug1
+
+12.
+git checkout bug2      -->префрли се на гранка 2
+
+13.
+nano SILab1.java        -->отвори го фајлот во нано едиторот
+git add SILab1.java      -->додади го фајлот во стејџинг
+git commit -m "Fixed wrong condition in filteroddnumbers"     -->изврши комит
+git push origin bug2
+
+14.
+git checkout bug3      -->префрли се на гранка 3
+
+15.
+nano SILab1.java        -->отвори го фајлот во нано едиторот
+git add SILab1.java      -->додади го фајлот во стејџинг
+git commit -m "Fixed method in sumevennumbers"     -->изврши комит
+git push origin bug3
+
+
+17.
+git checkout master   -->префрлувзње на гранката мастер
+
+18.
+git merge bug1
+
+19.
+git push origin master
+
+20.
+git merge bug2
+се појави конфликт кај спојување на буг2 со мастер гранката. конфликтот го решив на тој начин што ги избришав некои изменувања во local репозиториумот со наредбата nano SILab1.java
+
+21.
+git push origin master
+
+23.
+git fetch
+git rebase master

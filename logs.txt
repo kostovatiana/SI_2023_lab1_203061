@@ -1,0 +1,144 @@
+PC@Tiana MINGW64 ~/SI_2023_lab1_203061 (master)
+$ git log
+commit 4958917dbe9298631ea8310281238d15d4dcd3c5 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:42:14 2023 +0100
+
+    Fixed method sumEvenNumbers
+
+commit 582cd147a81ba828b5dfd62e8089810c3857f048
+Merge: 04b4c94 161a595
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:53:53 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 04b4c94cb48aa1a33bfb4ee30a0d9734589cc517
+Merge: f2e9b71 2627c93
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:46:20 2023 +0100
+
+    Merge branch 'bug1'
+
+commit f2e9b71de744fbcdd2a156d2fc5410df3fda4ea3
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:45:11 2023 +0100
+:
+origin/bug3, bug3)
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:42:14 2023 +0100
+
+    Fixed method sumEvenNumbers
+
+commit 582cd147a81ba828b5dfd62e8089810c3857f048
+Merge: 04b4c94 161a595
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:53:53 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 04b4c94cb48aa1a33bfb4ee30a0d9734589cc517
+Merge: f2e9b71 2627c93
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:46:20 2023 +0100
+
+    Merge branch 'bug1'
+
+commit f2e9b71de744fbcdd2a156d2fc5410df3fda4ea3
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:45:11 2023 +0100
+
+    Add Java Class
+
+commit 161a595e07f9c551e58ab387e01a5fa5ef56585e (bug2)
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:43:41 2023 +0100
+
+    Fixed condition in filterOddNumbers
+
+commit 2627c933b2983bf175519065f2b679cfc831f3c7 (origin/bug1, bug1)
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:39:32 2023 +0100
+
+    Fixed wrong loop for reading
+
+commit 42bc0c88dde9f97e896f7b8ae071f0a20c5c5958
+Merge: 61f55c9 068b88a
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 21:29:41 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 068b88a94cdf92d32c30ca49b6cc38d4d590e865
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 21:14:48 2023 +0100
+
+:
+origin/bug3, bug3)
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:42:14 2023 +0100
+
+    Fixed method sumEvenNumbers
+
+commit 582cd147a81ba828b5dfd62e8089810c3857f048
+Merge: 04b4c94 161a595
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:53:53 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 04b4c94cb48aa1a33bfb4ee30a0d9734589cc517
+Merge: f2e9b71 2627c93
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:46:20 2023 +0100
+
+    Merge branch 'bug1'
+
+commit f2e9b71de744fbcdd2a156d2fc5410df3fda4ea3
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:45:11 2023 +0100
+
+    Add Java Class
+
+commit 161a595e07f9c551e58ab387e01a5fa5ef56585e (bug2)
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:43:41 2023 +0100
+
+    Fixed condition in filterOddNumbers
+
+commit 2627c933b2983bf175519065f2b679cfc831f3c7 (origin/bug1, bug1)
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 22:39:32 2023 +0100
+
+    Fixed wrong loop for reading
+
+commit 42bc0c88dde9f97e896f7b8ae071f0a20c5c5958
+Merge: 61f55c9 068b88a
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 21:29:41 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 068b88a94cdf92d32c30ca49b6cc38d4d590e865
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 21:14:48 2023 +0100
+
+    Fixed wrong condition on filteroddnumbers
+
+commit 61f55c90b278e7cd3eb0561df629da201bdfde61
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 21:10:19 2023 +0100
+
+    Fixed wrong loop for reading
+
+commit e35445d354c4cd6d9bb13ebedd1d994b9755ae6d
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 19:45:04 2023 +0100
+
+    Add Java class
+
+commit b92a3c9a8b96f3f36a667e54a5fc3c41cc954332
+Author: Tiana <kostovatiana@gmail.com>
+Date:   Tue Mar 21 19:33:38 2023 +0100
+
+    Initial commit
